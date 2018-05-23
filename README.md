@@ -77,22 +77,6 @@ See our [Contribution Guidelines](https://github.com/lynndylanhurley/devise_toke
 The fully configured api used in these demos can be found [here](https://github.com/lynndylanhurley/devise_token_auth_demo).
 
 
-## Contributors
-
-<a href="graphs/contributors"><img src="https://opencollective.com/devise_token_auth/contributors.svg?width=890&button=false" /></a>
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/devise_token_auth#backer)]
-
-[![](https://opencollective.com/devise_token_auth/backers.svg?width=890)](https://opencollective.com/devise_token_auth#backers)
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/devise_token_auth#sponsor)]
-
-[![](https://opencollective.com/devise_token_auth/sponsor/0/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/0/website) [![](https://opencollective.com/devise_token_auth/sponsor/1/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/1/website) [![](https://opencollective.com/devise_token_auth/sponsor/2/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/2/website) [![](https://opencollective.com/devise_token_auth/sponsor/3/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/3/website) [![](https://opencollective.com/devise_token_auth/sponsor/4/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/4/website) [![](https://opencollective.com/devise_token_auth/sponsor/5/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/5/website) [![](https://opencollective.com/devise_token_auth/sponsor/6/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/6/website) [![](https://opencollective.com/devise_token_auth/sponsor/7/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/7/website) [![](https://opencollective.com/devise_token_auth/sponsor/8/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/8/website) [![](https://opencollective.com/devise_token_auth/sponsor/9/avatar.svg)](https://opencollective.com/devise_token_auth/sponsor/9/website)
 
 ## License
-This project uses the WTFPL
+This project uses the Open source
