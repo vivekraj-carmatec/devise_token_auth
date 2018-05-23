@@ -18,7 +18,10 @@ module DeviseTokenAuth
       if field
         q_value = get_case_insensitive_field_from_resource_params(field)
 
-        @resource = find_resource(field, q_value)
+        # @resource = find_resource(field, q_value)
+        email_q_value = get_case_insensitive_field_from_resource_params(field)
+        company_id_q_value = get_case_insensitive_field_from_resource_params(:company_id)
+        @resource = User.where(email: email_q_value, company_id: company_id_q_value).last
       end
 
       if @resource && valid_params?(field, q_value) && (!@resource.respond_to?(:active_for_authentication?) || @resource.active_for_authentication?)
